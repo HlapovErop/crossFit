@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/crossFit/static/css/main.65edca0b.css",
+    "main.js": "/crossFit/static/js/main.78c85178.js",
+    "static/media/programModalGirl.png": "/crossFit/static/media/programModalGirl.7c142187c0b24c5e6abf.png",
+    "static/media/programsCreatorGirl.png": "/crossFit/static/media/programsCreatorGirl.a63256994b02b1c0009c.png",
+    "static/media/profilePageUserLogo.svg": "/crossFit/static/media/profilePageUserLogo.5bf680e30808ee3e0407fb6f0ffefef5.svg",
+    "static/media/imageGirl.png": "/crossFit/static/media/imageGirl.85411723bac9eb6be919.png",
+    "static/media/image27.png": "/crossFit/static/media/image27.cabde823ced853dcb3dd.png",
+    "static/media/footerMainGirl.png": "/crossFit/static/media/footerMainGirl.fc7980586a314776ace6.png",
+    "static/media/headerMainLeftImage.png": "/crossFit/static/media/headerMainLeftImage.cfcbad7e9e3dcc809cba.png",
+    "static/media/educationLiesGirl.png": "/crossFit/static/media/educationLiesGirl.6cbc2cea563841e27e30.png",
+    "static/media/educationSertificate.png": "/crossFit/static/media/educationSertificate.b04927c8bb93fe7c506a.png",
+    "static/media/image_1.png": "/crossFit/static/media/image_1.e207a2f0cf3e79bb6def.png",
+    "static/media/programBeginner.png": "/crossFit/static/media/programBeginner.e207a2f0cf3e79bb6def.png",
+    "static/media/programsIntroGirl.png": "/crossFit/static/media/programsIntroGirl.ec31728c8400c8c323dd.png",
+    "static/media/headerMainRightImage.png": "/crossFit/static/media/headerMainRightImage.c1b87dff6a230b00711e.png",
+    "static/media/image_2.png": "/crossFit/static/media/image_2.6ee4950bff68a367d0be.png",
+    "static/media/programBasic.png": "/crossFit/static/media/programBasic.6ee4950bff68a367d0be.png",
+    "static/media/educationStandGirl.png": "/crossFit/static/media/educationStandGirl.8d32c537e22e8f87bc69.png",
+    "static/media/image_3.png": "/crossFit/static/media/image_3.ca671d567cd2a0ff7b05.png",
+    "static/media/programAdvanced.png": "/crossFit/static/media/programAdvanced.ca671d567cd2a0ff7b05.png",
+    "static/media/programsIntroGirlSeed.png": "/crossFit/static/media/programsIntroGirlSeed.0e935a4307d0c676f70a.png",
+    "static/media/GilroyRegular.ttf": "/crossFit/static/media/GilroyRegular.b91b0127c56a8e5f9e83.ttf",
+    "static/media/SantaCatarina.ttf": "/crossFit/static/media/SantaCatarina.b27a4bae390b794ed061.ttf",
+    "static/media/highlight.png": "/crossFit/static/media/highlight.40c241266231220c6d2e.png",
+    "static/media/programModalLine.png": "/crossFit/static/media/programModalLine.f096197fc278ed4c7169.png",
+    "static/media/footerMainLine.png": "/crossFit/static/media/footerMainLine.c2165988e7bc9675d5bb.png",
+    "static/media/headerMainRightLine.png": "/crossFit/static/media/headerMainRightLine.f8303ffd2ae3f1fd3d47.png",
+    "static/media/profilePageLine.svg": "/crossFit/static/media/profilePageLine.50247fbc913f8eb8f16111c1440bb4b9.svg",
+    "static/media/buttonRegistrationLine.svg": "/crossFit/static/media/buttonRegistrationLine.4892081d29009da7db94.svg",
+    "index.html": "/crossFit/index.html",
+    "main.65edca0b.css.map": "/crossFit/static/css/main.65edca0b.css.map",
+    "main.78c85178.js.map": "/crossFit/static/js/main.78c85178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65edca0b.css",
+    "static/js/main.78c85178.js"
+  ]
+}
