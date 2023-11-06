@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crossFit/static/css/main.584e030a.css",
-    "main.js": "/crossFit/static/js/main.204ee38e.js",
+    "main.js": "/crossFit/static/js/main.1bd1fe87.js",
     "static/media/programModalGirl.png": "/crossFit/static/media/programModalGirl.7c142187c0b24c5e6abf.png",
     "static/media/programsCreatorGirl.png": "/crossFit/static/media/programsCreatorGirl.a63256994b02b1c0009c.png",
     "static/media/imageGirl.png": "/crossFit/static/media/imageGirl.85411723bac9eb6be919.png",
@@ -30,10 +30,10 @@
     "static/media/buttonRegistrationLine.svg": "/crossFit/static/media/buttonRegistrationLine.4892081d29009da7db94.svg",
     "index.html": "/crossFit/index.html",
     "main.584e030a.css.map": "/crossFit/static/css/main.584e030a.css.map",
-    "main.204ee38e.js.map": "/crossFit/static/js/main.204ee38e.js.map"
+    "main.1bd1fe87.js.map": "/crossFit/static/js/main.1bd1fe87.js.map"
   },
   "entrypoints": [
     "static/css/main.584e030a.css",
-    "static/js/main.204ee38e.js"
+    "static/js/main.1bd1fe87.js"
   ]
 }
